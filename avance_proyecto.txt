@@ -12,3 +12,4 @@ Avance de desarrollo - Punto 9: test: agregado de pruebas unitarias para el mód
 Avance de desarrollo - Punto 10: refactor: optimización de consultas a la base de datos
 Avance de desarrollo - Punto 11: feat: integración de servicio de notificaciones por email
 Avance de desarrollo - Punto 12: feat: creación de reportes estadísticos de atención mensual
+Avance de desarrollo - Punto 13: fix: resolución de conflicto en la asignación de horarios
