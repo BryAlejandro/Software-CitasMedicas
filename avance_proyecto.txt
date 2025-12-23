@@ -15,3 +15,4 @@ Avance de desarrollo - Punto 12: feat: creación de reportes estadísticos de at
 Avance de desarrollo - Punto 13: fix: resolución de conflicto en la asignación de horarios
 Avance de desarrollo - Punto 14: docs: agregado de documentación técnica de la API
 Avance de desarrollo - Punto 15: feat: implementación de búsqueda avanzada de pacientes
+Avance de desarrollo - Punto 16: style: actualización de colores y tipografía según guía de estilo
