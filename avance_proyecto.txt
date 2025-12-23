@@ -6,3 +6,4 @@ Avance de desarrollo - Punto 3: feat: creación del modelo de base de datos para
 Avance de desarrollo - Punto 4: feat: implementación del módulo de autenticación de usuarios
 Avance de desarrollo - Punto 5: fix: corrección de errores en la validación de formularios
 Avance de desarrollo - Punto 6: feat: agregado soporte para múltiples especialidades médicas
+Avance de desarrollo - Punto 7: style: mejora de la interfaz de usuario en el panel de control
