@@ -3,3 +3,4 @@ Cambio número 2
 Avance de desarrollo - Punto 1: feat: configuración inicial del entorno de desarrollo
 Avance de desarrollo - Punto 2: docs: actualización del archivo README con instrucciones de instalación
 Avance de desarrollo - Punto 3: feat: creación del modelo de base de datos para pacientes
+Avance de desarrollo - Punto 4: feat: implementación del módulo de autenticación de usuarios
