@@ -14,3 +14,4 @@ Avance de desarrollo - Punto 11: feat: integración de servicio de notificacione
 Avance de desarrollo - Punto 12: feat: creación de reportes estadísticos de atención mensual
 Avance de desarrollo - Punto 13: fix: resolución de conflicto en la asignación de horarios
 Avance de desarrollo - Punto 14: docs: agregado de documentación técnica de la API
+Avance de desarrollo - Punto 15: feat: implementación de búsqueda avanzada de pacientes
