@@ -19,3 +19,4 @@ Avance de desarrollo - Punto 16: style: actualización de colores y tipografía 
 Avance de desarrollo - Punto 17: feat: módulo de gestión de recetas médicas electrónicas
 Avance de desarrollo - Punto 18: feat: integración de pasarela de pagos para consultas
 Avance de desarrollo - Punto 19: fix: mejora en el manejo de excepciones del servidor
+Avance de desarrollo - Punto 20: feat: versión final lista para despliegue - v1.0
