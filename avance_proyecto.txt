@@ -1,1 +1,3 @@
 Cambio número 2
+
+Avance de desarrollo - Punto 1: feat: configuración inicial del entorno de desarrollo
