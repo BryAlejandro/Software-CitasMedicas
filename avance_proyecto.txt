@@ -11,3 +11,4 @@ Avance de desarrollo - Punto 8: feat: implementación de la lógica de agendamie
 Avance de desarrollo - Punto 9: test: agregado de pruebas unitarias para el módulo de citas
 Avance de desarrollo - Punto 10: refactor: optimización de consultas a la base de datos
 Avance de desarrollo - Punto 11: feat: integración de servicio de notificaciones por email
+Avance de desarrollo - Punto 12: feat: creación de reportes estadísticos de atención mensual
