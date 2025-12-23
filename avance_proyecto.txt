@@ -9,3 +9,4 @@ Avance de desarrollo - Punto 6: feat: agregado soporte para múltiples especiali
 Avance de desarrollo - Punto 7: style: mejora de la interfaz de usuario en el panel de control
 Avance de desarrollo - Punto 8: feat: implementación de la lógica de agendamiento de citas
 Avance de desarrollo - Punto 9: test: agregado de pruebas unitarias para el módulo de citas
+Avance de desarrollo - Punto 10: refactor: optimización de consultas a la base de datos
