@@ -1,0 +1,1 @@
+fastapi\nuvicorn\npydantic\nrequests\nnest_asyncio
